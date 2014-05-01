@@ -3,7 +3,9 @@ magic_scraper
 
 Scraping the gatherer for card info on any set produced ever
 
-Checkout project and run:
+Requires that nodejs is installed on host system.
+
+Checkout project or download from github and run:
 
 $ cd magic_scraper
 
