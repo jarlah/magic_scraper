@@ -6,6 +6,7 @@ Scraping the gatherer for card info on any set produced ever
 Checkout project and run:
 
 $ cd magic_scraper
+
 $ npm install request cheerio
 
 Then run the scraper by issuing the following command:
