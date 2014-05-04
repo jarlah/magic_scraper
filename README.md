@@ -1,6 +1,8 @@
 magic_scraper
 =============
 
+  Written with NodeJS... see my other project magic-card-scraper for a Clojure/Leiningen version.
+
 Scraping the gatherer for card info on any set produced ever
 
 Requires that nodejs is installed on host system.
